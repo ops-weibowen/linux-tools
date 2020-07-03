@@ -1,6 +1,7 @@
 #!/bin/bash
 
 ### 批量命令执行脚本 v1.0 #####
+### 第一次更新至 github   #####
 
 list="/root/shell/host.list"
 
